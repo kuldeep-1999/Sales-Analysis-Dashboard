@@ -1,9 +1,12 @@
 # Sales-Analysis-Dashboard
 
+## Problem Statement
+
+The main objective of this project is to analyze sales data to uncover key insights that can help the business make informed decisions. Specifically, the goal is to understand sales trends, identify top-performing sub-category, and recognize customer purchasing behavior to improve future sales strategies.
+
 ## Overview
 
 This project focuses on analyzing sales data using Excel. It includes various calculations, data visualizations, and insights to help understand sales trends, customer behavior, and performance metrics.
-Since, number of neutral/dissatisfied customers (almost 57 %) are more than satisfied customers (around 43 %), thus in all they must work on improving their services. 
 
 ### Steps followed 
 
