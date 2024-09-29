@@ -21,9 +21,9 @@ This project focuses on analyzing sales data using Excel. It includes various ca
 - Step 9 : To connect all chart with slicers click any 1 slicer then click on option and then click pivot table connection.
 
 ## Files:
-salesdata.csv: Contains raw sales data with various fields like customer name, product name, states, sales value, and date.
-Dashboards/Reports: Includes Excel charts and pivot tables for quick analysis and interpretation.
-Sales Insights file is also attached.
+- salesdata.csv: Contains raw sales data with various fields like customer name, product name, states, sales value, and date.
+- Dashboards/Reports: Includes Excel charts and pivot tables for quick analysis and interpretation.
+- Sales Insights file is also attached.
 
 ## How to Use:
 - Open the Excel File: Load the salesdata.csv in Excel.
