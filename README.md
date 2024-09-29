@@ -18,12 +18,13 @@ Since, number of neutral/dissatisfied customers (almost 57 %) are more than sati
 - Step 9 : To connect all chart with slicers click any 1 slicer then click on option and then click pivot table connection.
 
 ## Files:
-salesdata.csv: Contains raw sales data with various fields like product name, region, sales value, and date.
+salesdata.csv: Contains raw sales data with various fields like customer name, product name, states, sales value, and date.
 Dashboards/Reports: Includes Excel charts and pivot tables for quick analysis and interpretation.
+Sales Insights file is also attached.
 
 ## How to Use:
-- Open the Excel File: Load the salesdata.xlsx in Excel.
-- Navigate to Sheets: Each sheet is labeled for specific analyses (e.g., "Sales Overview", "Product Analysis", "Regional Performance").
+- Open the Excel File: Load the salesdata.csv in Excel.
+- Navigate to Sheets: Each sheet is labeled for specific analyses (e.g., "Category Sales", "Yearly Sales", "State wise Sales").
 - Interactivity: Use filters and slicers in pivot tables to customize your view of the data.
 - Customization: Modify charts and pivot tables to suit your specific analysis needs.
 
