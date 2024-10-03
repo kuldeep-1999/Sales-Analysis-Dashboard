@@ -3,7 +3,6 @@
 ## Problem Statement
 
 The main objective of this project is to analyze sales data to uncover key insights that can help the business make informed decisions. Specifically, the goal is to understand sales trends, identify top-performing sub-category, and recognize customer purchasing behavior to improve future sales strategies.
-![Logo](https://github.com/user-attachments/assets/e4e1952e-f8b4-478a-aef0-4a5c0bff9825)
 
 ## Overview
 
